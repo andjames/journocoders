@@ -18,7 +18,7 @@ We’ve included links to:
 ---
 
 ## ✈️ Aviation Data: GPS Jamming Detection
-![GPS jamming map](assets/baltic-gps-jamming.png)
+<img src="assets/baltic-gps-jamming.png" alt="GPS jamming map" width="400" />
 Spire uses satellite-captured ADS-B signals to monitor anomalies in aircraft position reporting, helping detect GPS spoofing or jamming activity around the world.
 
 **🔗 Interactive Demo**  

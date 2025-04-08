@@ -2,13 +2,13 @@
 
 Welcome! This repo is part of a live data show-and-tell for journalists. 
 
-It highlights a few compelling use cases for satellite-derived data from Spire Global — including weather, aviation, and agricultural insights.
+It highlights a few compelling use cases for satellite-derived data from Spire Global, including weather, aviation, and agricultural insights.
 
 ---
 
 ## 🌍 Overview
 
-These examples showcase how satellite data can be used in real-world journalism and analysis — from detecting GPS jamming in aviation, to predicting the emergence of billions of cicadas based on soil moisture data.
+These examples showcase how satellite data can be used in real-world journalism and analysis, from detecting GPS jamming in aviation, to predicting the emergence of billions of cicadas based on soil moisture data.
 
 We’ve included links to:
 - 🛰️ Live and interactive visual demos
@@ -19,7 +19,7 @@ We’ve included links to:
 
 ## ✈️ Aviation Data: GPS Jamming Detection
 
-Spire uses satellite-captured ADS-B signals to monitor anomalies in aircraft position reporting — helping detect GPS spoofing or jamming activity around the world.
+Spire uses satellite-captured ADS-B signals to monitor anomalies in aircraft position reporting, helping detect GPS spoofing or jamming activity around the world.
 
 **🔗 Interactive Demo**  
 [GPS Jamming Map (CodePen)](https://codepen.io/andjames/pen/YzoEPyP?editors=0011)  
@@ -33,7 +33,7 @@ _Data is embedded in the CodePen (CSV format)._
 
 ## 🌾 Soil Moisture & Cicada Forecasting
 
-Spire’s weather models (powered by satellite GNSS radio occultation) provide detailed soil data — useful for everything from agriculture to unusual forecasts like insect emergence.
+Spire’s weather models (powered by satellite GNSS radio occultation) provide detailed soil data, useful for everything from agriculture to unusual forecasts like insect emergence.
 
 **🧬 Included GRIB2 Data**
 - Soil moisture (low resolution)
@@ -65,9 +65,11 @@ This dashboard will soon include additional weather and climate data. If you’r
 
 | File/Folder | Description |
 |-------------|-------------|
-| `soil_data/` | GRIB2 files for weather and soil conditions in Europe |
-| `gps_jamming.csv` | (Optional) Raw CSV used in CodePen if pulled out separately |
-| `notebooks/` | Any demo Python notebooks (TBD) |
+| `sof-d.20250405.t00z.0p125.agricultural.europe.f000.grib2` | GRIB2 files for weather and soil conditions in Europe |
+| `europe-soil-moisture-data.csv` | Basic CSV of lo-res soil conditions in Europe |
+| `sample_aviation-w-nic-and-nacp.json` | Raw JSON file of Spire Aviation data with NACP & NIC values for GPS Jamming |
+| `inspect_grib.py` | Python file for inspecting/listing variables in GRIB2 files |
+| `extract_grib.py` | Python file for a basic data extraction from GRIB2 files to CSV |
 | `README.md` | You're here! |
 
 ---

@@ -31,6 +31,17 @@ _Data is embedded in the CodePen (CSV format)._
 
 ---
 
+##💨 Wind, Renewables & Climate Change
+
+Spire’s weather and climate data helps analysts and energy producers better understand wind patterns and variability — both today and decades into the future. This is critical for planning renewable power generation and adapting to long-term climate shifts.
+
+**📝 Related Blog Post**  
+[Wind & Climate Change: Forecasting for the Future](https://insights.spire.com/wind-climate-change-for-the-future)
+
+> Covers long-term trends in wind speed and power density, with implications for renewable energy strategy and resilience.
+
+---
+
 ## 🌾 Soil Moisture & Cicada Forecasting
 
 Spire’s weather models (powered by satellite GNSS radio occultation) provide detailed soil data, useful for everything from agriculture to unusual forecasts like insect emergence.

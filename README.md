@@ -32,7 +32,7 @@ _Data is embedded in the CodePen (CSV format)._
 ---
 
 ## 💨 Wind, Renewables & Climate Change
-<img src="assets/wind-generation.png" alt="Wind Generation Chart" width="400" />
+<img src="assets/wind-generation.png" alt="Wind Generation Chart" width="600" />
 Spire’s weather and climate data helps analysts and energy producers better understand wind patterns and variability — both today and decades into the future. This is critical for planning renewable power generation and adapting to long-term climate shifts.
 
 **📝 Related Blog Post**  
@@ -43,7 +43,7 @@ Spire’s weather and climate data helps analysts and energy producers better un
 ---
 
 ## 🌾 Soil Moisture & Cicada Forecasting
-<img src="assets/baltic-gps-jamming.png" alt="GPS jamming map" width="400" />
+<img src="assets/cicada-broods-and-SMI.png" alt="Soil Moisture" width="500" />
 Spire’s weather models (powered by satellite GNSS radio occultation) provide detailed soil data, useful for everything from agriculture to unusual forecasts like insect emergence.
 
 **🧬 Included GRIB2 Data**
@@ -61,7 +61,7 @@ Spire’s weather models (powered by satellite GNSS radio occultation) provide d
 ---
 
 ## 📦 Aviation Cargo Index (In Development)
-<img src="assets/baltic-gps-jamming.png" alt="GPS jamming map" width="400" />
+<img src="assets/aviation-data-cargo-index.png" alt="Aviation: Cargo Index" width="600" />
 Spire is developing a dashboard to highlight aviation cargo trends and insights, derived from satellite ADS-B and other datasets.
 
 **🚧 Demo Dashboard (Beta)**  

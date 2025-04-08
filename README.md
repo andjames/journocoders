@@ -31,7 +31,7 @@ _Data is embedded in the CodePen (CSV format)._
 
 ---
 
-##💨 Wind, Renewables & Climate Change
+## 💨 Wind, Renewables & Climate Change
 
 Spire’s weather and climate data helps analysts and energy producers better understand wind patterns and variability — both today and decades into the future. This is critical for planning renewable power generation and adapting to long-term climate shifts.
 

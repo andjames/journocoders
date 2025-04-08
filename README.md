@@ -1,6 +1,8 @@
 # Spire Data Demos for Journalists
 
-Welcome! This repo is part of a live data show-and-tell for journalists hosted in London with participants from Bloomberg, WSJ, and the Times. It highlights a few compelling use cases for satellite-derived data from Spire Global — including weather, aviation, and agricultural insights.
+Welcome! This repo is part of a live data show-and-tell for journalists. 
+
+It highlights a few compelling use cases for satellite-derived data from Spire Global — including weather, aviation, and agricultural insights.
 
 ---
 

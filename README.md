@@ -77,14 +77,17 @@ This dashboard will soon include additional weather and climate data. If you’r
 ## 🛠️ Ideas for Exploration
 
 - Use Python to parse GRIB2 weather files with `cfgrib` or `xarray`
-- Map GPS jamming activity geographically using `folium` or `plotly`
+- Map GPS jamming activity geographically (lots going on around the Baltic Sea).
+- Inspect soil moisture values in the Khumbu Region of Nepal during Everest Climbing season
+- Soil Moisture and the effectiveness of carbon capture/sequestration programs
+- Tariffs and cargo flight variations
 - Compare soil temperature and moisture across time for storytelling potential
 
 ---
 
 ## 🙌 Thanks for Stopping By
 
-We hope this sparks ideas for your own work with satellite data. Feel free to fork this repo, ask questions, or share feedback.
+We hope this sparks ideas for your own work with satellite data. Feel free to ask questions, or share feedback.
 
-Questions? Contact [@andjames](https://github.com/andjames) or reply to the event thread.
+Questions? Contact [@andjames](https://github.com/andjames) or reach out via [andrew.james@spire.com](mailto:andrew.james@spire.com).
 

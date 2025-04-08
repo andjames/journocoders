@@ -54,7 +54,7 @@ Spire’s weather models (powered by satellite GNSS radio occultation) provide d
 Spire is developing a dashboard to highlight aviation cargo trends and insights, derived from satellite ADS-B and other datasets.
 
 **🚧 Demo Dashboard (Beta)**  
-[Aviation Cargo Index Dashboard](https://spiredata.wpenginepowered.com/#/dash)  
+[Aviation Cargo Index Dashboard](https://spiredata.wpenginepowered.com)  
 > Currently in development; feedback welcome!
 
 This dashboard will soon include additional weather and climate data. If you’re interested in early access or want to stay in the loop, let us know.

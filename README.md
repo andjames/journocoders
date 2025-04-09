@@ -4,6 +4,9 @@ Welcome! This repo is part of a live data show-and-tell for journalists.
 
 It highlights a few compelling use cases for satellite-derived data from Spire Global, including weather, aviation, and agricultural insights.
 
+> In addition to the files in this repo, hi-res (~100m) Weather and Soil Moisture demo data is available here (Note: files are large!): https://drive.google.com/drive/folders/1aRmoMjUaZwInAZ6418nsNJq13uXPxG_U
+
+
 ---
 
 ## 🌍 Overview
@@ -54,8 +57,6 @@ Spire’s weather models (powered by satellite GNSS radio occultation) provide d
 - Volumetric soil moisture
 
 > These are from a weather model run over Europe. A sample agricultural GRIB2 file is included in this repo.
-
-> Hi-Res Weather and Soil Moisture demo data is available here (Note: files are large!): https://drive.google.com/drive/folders/1aRmoMjUaZwInAZ6418nsNJq13uXPxG_U
 
 **📝 Related Blog Post**  
 [How to Use Soil Moisture and Temperature to Forecast Cicadas](https://spire.com/blog/weather-climate/agriculture-insights-ahead-of-us-cicada-invasion/)

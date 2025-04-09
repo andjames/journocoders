@@ -5,7 +5,6 @@ Welcome! This repo is part of a live data show-and-tell for journalists.
 It highlights a few compelling use cases for satellite-derived data from Spire Global, including weather, aviation, and agricultural insights.
 
 
-> NOTE: In addition to the files in this repo, hi-res (~100m) Weather and Soil Moisture demo data is available here: https://drive.google.com/drive/folders/1aRmoMjUaZwInAZ6418nsNJq13uXPxG_U
 
 
 

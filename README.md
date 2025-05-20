@@ -76,6 +76,17 @@ This dashboard will soon include additional weather and climate data. If you’r
 
 ---
 
+## 🔥NON-SPIRE: Fire Camera Map (Experimental)
+<img src="https://andjam.es/cafires/VIIRS+california-fire-cameras.png" alt="Wildfire Camera + Satellite Detection Map" width="600" />
+
+This experimental map combines near real-time satellite fire detections with more than 1,000 wildfire cameras across the western U.S. Each camera shows a directional view cone that dynamically rotates and intensifies as nearby fire activity increases.
+
+**🛰️ Live Demo**  
+[Fire Camera Map](https://andjam.es/cafires)  
+> Includes satellite hotspots (VIIRS/MODIS), AI object detections (early-stage), and camera directionality.
+
+This prototype explores how public data can be layered to improve situational awareness in wildfire events. While many of the AI detections are false alarms (surfboards, giraffes…), the potential is clear. Feedback and collaboration welcome!
+
 ## 📂 Files in This Repo
 
 | File/Folder | Description |
@@ -104,5 +115,5 @@ This dashboard will soon include additional weather and climate data. If you’r
 
 We hope this sparks ideas for your own work with satellite data. Feel free to ask questions, or share feedback.
 
-Questions? Contact [@andjames](https://github.com/andjames) or reach out via [andrew.james@spire.com](mailto:andrew.james@spire.com).
+Questions? Contact [@andjames](https://github.com/andjames) or reach out via [hello@andjam.es](mailto:hello@andjam.es).
 

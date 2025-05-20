@@ -5,7 +5,7 @@ Welcome! This repo is part of a live data show-and-tell for journalists.
 It highlights a few compelling use cases for satellite-derived data from Spire Global, including weather, aviation, and agricultural insights.
 
 
-##NON-SPIRE-related:
+## NON-SPIRE-related:
 
 ## 🔥 Fire Camera Map (Experimental)
 <img src="https://andjam.es/cafires/VIIRS+california-fire-cameras.png" alt="Wildfire Camera + Satellite Detection Map" width="600" />
@@ -19,7 +19,7 @@ This experimental map combines near real-time satellite fire detections with mor
 This prototype explores how public data can be layered to improve situational awareness in wildfire events. While many of the AI detections are false alarms (surfboards, giraffes…), the potential is clear. Feedback and collaboration welcome!
 
 ---
-##SPIRE-related:
+## SPIRE-related:
 ## 🌍 Overview
 
 These examples showcase how satellite data can be used in real-world journalism and analysis, from detecting GPS jamming in aviation, to predicting the emergence of billions of cicadas based on soil moisture data.
